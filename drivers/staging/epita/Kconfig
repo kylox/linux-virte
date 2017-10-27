@@ -1,0 +1,5 @@
+config EPITA_TEST
+	tristate "Simple test module for EPITA classes"
+	depends on STAGING
+	help
+	  Not much here...
